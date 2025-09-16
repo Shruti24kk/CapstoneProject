@@ -1,0 +1,26 @@
+claim_id,policy_id,customer_age,customer_gender,claim_type,amount,prior_claims_12m,days_since_policy_start,location_region,incident_date,submission_date,description_text,kw_urgent,kw_severe,kw_template,kw_staged,kw_whiplash,label_fraud
+C00001,P39880,49,M,property,9671.88,2,357,MW,2024-05-21,2024-05-22,Water leak damaged wooden floor and rug. staged-looking. Estimated cost around $9671.,0,0,0,1,0,0
+C00002,P45509,46,F,auto,1759.74,0,1471,NE,2025-05-27,2025-06-17,Rear bumper damage at traffic light.,0,0,0,0,0,0
+C00003,P16184,22,M,property,5569.99,0,1060,MW,2023-07-18,2023-07-24,Kitchen fire caused smoke damage.,0,0,0,0,0,0
+C00004,P49366,25,F,health,1223.81,0,103,SE,2022-10-15,2022-11-05,Prescription reimbursement for antibiotics.,0,0,0,0,0,0
+C00005,P51320,54,M,auto,2549.08,0,1322,NW,2025-01-13,2025-01-29,Minor fender-bender in parking lot.,0,0,0,0,0,0
+C00006,P50084,53,F,property,8212.65,0,1608,MW,2024-10-25,2024-10-31,Storm broke window; repair invoice attached.,0,0,0,0,0,0
+C00007,P58005,52,M,property,100.0,0,427,NE,2024-05-06,2024-05-20,Theft reported; missing electronics listed.,0,0,0,0,0,1
+C00008,P27248,27,F,property,6107.07,0,1768,NW,2025-02-25,2025-02-26,Theft reported; missing electronics listed. urgent.,1,0,0,0,0,0
+C00009,P31487,49,F,auto,5683.99,1,1463,NW,2025-03-25,2025-04-15,Hit-and-run reported; police file attached. Estimated cost around $5683.,0,0,0,0,0,0
+C00010,P54883,21,M,auto,1242.53,0,1362,SE,2024-06-21,2024-06-30,Minor fender-bender in parking lot. Estimated cost around $1242.,0,0,0,0,0,0
+C00011,P67959,26,F,auto,11296.27,0,633,NW,2025-08-09,2025-08-20,Minor fender-bender in parking lot.,0,0,0,0,0,0
+C00012,P45308,48,F,property,4433.25,2,245,SW,2024-11-13,2024-11-17,Theft reported; missing electronics listed.,0,0,0,0,0,0
+C00013,P51124,56,M,health,2025.03,1,800,NW,2024-09-27,2024-10-07,Prescription reimbursement for antibiotics. staged-looking.,0,0,0,1,0,0
+C00014,P99056,58,F,property,4446.69,1,1479,NE,2023-10-17,2023-10-28,Water leak damaged wooden floor and rug.,0,0,0,0,0,0
+C00015,P68130,78,M,auto,5714.52,0,1083,NE,2022-09-19,2022-09-25,Hit-and-run reported; police file attached.,0,0,0,0,0,0
+C00016,P14083,70,M,auto,10578.5,0,1192,NE,2023-06-07,2023-07-06,Side door dent; no injuries reported. Estimated cost around $10578.,0,0,0,0,0,1
+C00017,P42456,41,F,health,7446.03,0,1431,SW,2024-12-31,2025-01-08,Routine checkup reimbursement.,0,0,0,0,0,0
+C00018,P14849,66,F,auto,8609.74,0,638,NW,2024-11-02,2024-11-07,Minor fender-bender in parking lot. Estimated cost around $8609.,0,0,0,0,0,0
+C00019,P88767,23,F,property,14527.96,0,97,SE,2023-09-14,2023-09-30,Water leak damaged wooden floor and rug. template-like wording.,0,0,1,0,0,1
+C00020,P84206,71,M,health,5932.85,0,1616,SW,2024-08-02,2024-08-11,Prescription reimbursement for antibiotics.,0,0,0,0,0,0
+C00021,P51920,41,F,property,9493.23,0,1131,SE,2023-04-18,2023-05-01,Kitchen fire caused smoke damage. staged-looking. Estimated cost around $9493.,0,0,0,1,0,1
+C00022,P33941,65,F,auto,11495.88,0,1045,NW,2023-07-02,2023-07-23,Minor fender-bender in parking lot. whiplash.,0,0,0,0,1,0
+C00023,P74715,78,F,property,12754.41,0,1059,NW,2025-07-20,2025-07-22,Kitchen fire caused smoke damage. template-like wording.,0,0,1,0,0,0
+C00024,P26540,61,M,property,8863.92,0,1561,SW,2023-12-13,2023-12-28,Roof damage after heavy wind. urgent.,1,0,0,0,0,0
+C00025,P79314,75,M,property,10102.05,0,1410,NE,2023-06-12,2023-06-12,Water leak damaged wooden floor and rug. Estimated cost around $10102.,0,0,0,0,0,1
